@@ -11,7 +11,7 @@ import { BreadcrumbsComponent } from './bootstrap-components/breadcrumbs/breadcr
 import { ButtonGroupComponent } from './bootstrap-components/button-group/button-group.component';
 import { ButtonsComponent } from './bootstrap-components/buttons/buttons.component';
 import { CardComponent } from './bootstrap-components/card/card.component';
-import { CarouselComponent } from './bootstrap-components/carousel/carousel.compnent';
+import { CarouselComponent } from './bootstrap-components/carousel/carousel.component';
 import { CloseButtonComponent } from './bootstrap-components/close-button/close-button.component';
 import { CollapseComponent } from './bootstrap-components/collapse/collapse.component';
 import { DropdownsComponent } from './bootstrap-components/dropdowns/dropdowns.component';
